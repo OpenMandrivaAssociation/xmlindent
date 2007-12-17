@@ -10,7 +10,6 @@ Group:		Development/Other
 License:	GPL
 URL:		http://xmlindent.sf.net/
 Source0:	http://dl.sf.net/xmlindent/%{name}-%{version}.tar.bz2
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	flex
 
 %description
