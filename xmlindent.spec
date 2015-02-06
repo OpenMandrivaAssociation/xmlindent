@@ -1,6 +1,6 @@
 %define	name	xmlindent
 %define	version	0.2.17
-%define	release	7
+%define release	8
 
 Name:		%{name}
 Version:	%{version}
