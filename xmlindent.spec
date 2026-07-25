@@ -1,10 +1,10 @@
 %define	name	xmlindent
 %define	version	0.2.17
-%define release	8
+%define release 9
 
 Name:		%{name}
 Version:	%{version}
-Release:	%mkrel %{release}
+Release:	%{release}.1
 Summary:	XML stream reformatter
 Group:		Development/Other
 License:	GPL
